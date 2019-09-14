@@ -1,6 +1,3 @@
-'''Xuanzhou Du
-18943436
-I worked alone without help.
 Inputs that lead to a "win":0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70, 0
 Inputs that lead to a "loss":0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0'''
 
